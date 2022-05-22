@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFDF4">
+
+    <RelativeLayout
+        android:id="@+id/riddleTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp">
+
+        <TextView
+            android:id="@+id/riddleTxtTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:fontFamily="@font/gowun_batang_bold"
+            android:text="Riddle Title"
+            android:textColor="@color/black"
+            android:textSize="28sp" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/userOptions"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/riddleTitle"
+        android:layout_marginTop="15dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/solvedButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="15dp"
+            style="@style/Widget.Material3.Button"
+            android:text="Solved"
+            android:textSize="12sp"
+            android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/unsolvedButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="15dp"
+            style="@style/Widget.Material3.Button"
+            android:text="Unsolved"
+            android:textSize="12sp"
+            android:visibility="gone"
+            android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/likeButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/Widget.Material3.Button"
+            android:text="Like"
+            android:textSize="12sp"
+            android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/dislikeButton"
+            android:layout_width="wrap_content"
+            android:layout_height="53dp"
+            style="@style/Widget.Material3.Button"
+            android:text="Remove from\nliked"
+            android:textSize="10sp"
+            android:visibility="gone"
+            android:textColor="@color/white" />
+
+        <Button
+            android:id="@+id/shareButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            style="@style/Widget.Material3.Button"
+            android:layout_marginStart="15dp"
+            android:textSize="12sp"
+            android:text="Share"
+            android:textColor="@color/white" />
+
+    </LinearLayout>
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/userOptions"
+        android:layout_marginBottom="62dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/userOptions">
+
+            <ImageView
+                android:id="@+id/imageActionRiddle"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:layout_marginStart="30dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginEnd="30dp"
+                android:src="@drawable/ic_launcher_background" />
+
+            <TextView
+                android:id="@+id/riddlePlot"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/imageActionRiddle"
+                android:layout_marginStart="32dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginEnd="32dp"
+                android:fontFamily="@font/gowun_batang_regular"
+                android:textColor="@color/black"
+                android:textSize="17sp" />
+
+        </RelativeLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="25dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/hintsButton"
+            style="@style/Widget.Material3.Button.TextButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="10dp"
+            android:text="Hints"
+            android:textColor="#1B263B"
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/solutionButton"
+            style="@style/Widget.Material3.Button.TextButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:text="Solution"
+            android:textColor="#1B263B"
+            android:textSize="18sp" />
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/riddleCardView"
+    android:layout_width="315dp"
+    android:layout_height="389dp"
+    android:layout_marginTop="7dp"
+    android:layout_marginBottom="24dp"
+    app:cardCornerRadius="15dp"
+    app:cardElevation="7dp"
+    android:layout_centerHorizontal="true">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FFFDF4">
+
+        <TextView
+            android:id="@+id/txtTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:fontFamily="@font/gowun_batang_regular"
+            android:text="Riddle Title"
+            android:textSize="28sp"
+            android:textColor="#000000"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/imageRiddle"
+            android:layout_width="238dp"
+            android:layout_height="280dp"
+            android:layout_below="@+id/txtTitle"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="13dp"
+            android:layout_marginBottom="20dp"
+            android:src="@mipmap/ic_launcher" />
+    </RelativeLayout>
+
+
+</androidx.cardview.widget.CardView>

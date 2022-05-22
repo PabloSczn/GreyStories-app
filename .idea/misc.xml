@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/sanch/AndroidStudioProjects/GreyStoriesGame/app/src/main/res/drawable-anydpi/ic_navigation.xml" value="0.147" />
+        <entry key="..\:/Users/sanch/AndroidStudioProjects/GreyStoriesGame/app/src/main/res/drawable/ic_baseline_help_24.xml" value="0.202" />
+        <entry key="..\:/Users/sanch/AndroidStudioProjects/GreyStoriesGame/app/src/main/res/drawable/ic_launcher_background.xml" value="0.212" />
+        <entry key="..\:/Users/sanch/AndroidStudioProjects/GreyStoriesGame/app/src/main/res/layout/about_screen.xml" value="0.2265625" />
+        <entry key="..\:/Users/sanch/AndroidStudioProjects/GreyStoriesGame/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/sanch/AndroidStudioProjects/GreyStoriesGame/app/src/main/res/layout/fragment_all_riddles.xml" value="0.2421875" />
+        <entry key="..\:/Users/sanch/AndroidStudioProjects/GreyStoriesGame/app/src/main/res/layout/fragment_liked_riddles.xml" value="0.2421875" />
+        <entry key="..\:/Users/sanch/AndroidStudioProjects/GreyStoriesGame/app/src/main/res/layout/fragment_solved_riddles.xml" value="0.25" />
+        <entry key="..\:/Users/sanch/AndroidStudioProjects/GreyStoriesGame/app/src/main/res/layout/how_to_play_screen.xml" value="0.2116788321167883" />
+        <entry key="..\:/Users/sanch/AndroidStudioProjects/GreyStoriesGame/app/src/main/res/layout/riddle_all_fragment.xml" value="0.2421875" />
+        <entry key="..\:/Users/sanch/AndroidStudioProjects/GreyStoriesGame/app/src/main/res/layout/riddle_screen.xml" value="0.264" />
+        <entry key="..\:/Users/sanch/AndroidStudioProjects/GreyStoriesGame/app/src/main/res/layout/riddle_solution_screen.xml" value="0.264" />
+        <entry key="..\:/Users/sanch/AndroidStudioProjects/GreyStoriesGame/app/src/main/res/layout/riddles_list_item.xml" value="0.25" />
+        <entry key="..\:/Users/sanch/AndroidStudioProjects/GreyStoriesGame/app/src/main/res/menu/menu_option.xml" value="0.2265625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

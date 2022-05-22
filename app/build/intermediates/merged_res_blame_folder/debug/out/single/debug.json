@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_greystorieslogotransparent.png.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\drawable-mdpi\\greystorieslogotransparent.png"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_liked.png.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\drawable-mdpi\\ic_liked.png"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_github.png.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\mipmap-mdpi\\github.png"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\layout_about_screen.xml.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\layout\\about_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_person_talking.jpg.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\mipmap-mdpi\\person_talking.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_greystorieslogo.jpeg.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\drawable-mdpi\\greystorieslogo.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_thinking.jpg.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\mipmap-mdpi\\thinking.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\layout_how_to_play_screen.xml.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\layout\\how_to_play_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_solved.png.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\drawable-xxhdpi\\ic_solved.png"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_solved.png.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\drawable-hdpi\\ic_solved.png"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_logo.png.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\drawable-v24\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_myself.jpg.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\mipmap-mdpi\\myself.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_greystorieslogowhite.png.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\drawable-mdpi\\greystorieslogowhite.png"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\layout_riddles_list_item.xml.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\layout\\riddles_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_help.xml.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\drawable\\ic_baseline_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_liked.png.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\drawable-xhdpi\\ic_liked.png"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_all_riddles.xml.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\layout\\fragment_all_riddles.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\layout_riddle_solution_screen.xml.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\layout\\riddle_solution_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_liked_riddles.xml.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\layout\\fragment_liked_riddles.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\layout_riddle_screen.xml.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\layout\\riddle_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_solved.png.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\drawable-xhdpi\\ic_solved.png"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_solved_riddles.xml.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\layout\\fragment_solved_riddles.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\font_gowun_batang_regular.ttf.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\font\\gowun_batang_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_liked.png.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\drawable-hdpi\\ic_liked.png"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_greystorieslogoblack.png.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\drawable-mdpi\\greystorieslogoblack.png"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\font_gowun_batang_bold.ttf.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\font\\gowun_batang_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_logo_transparent.png.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\drawable-v24\\logo_transparent.png"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_background_plain.png.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\mipmap-mdpi\\background_plain.png"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_seagull.jpg.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\mipmap-mdpi\\seagull.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_linkedin.png.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\mipmap-mdpi\\linkedin.png"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_heartfull.png.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\mipmap-mdpi\\heartfull.png"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_search.png.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\mipmap-mdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_liked.png.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\drawable-xxhdpi\\ic_liked.png"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_greystorytransparentblue.png.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\drawable-mdpi\\greystorytransparentblue.png"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_option.xml.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\menu\\menu_option.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_help_24.xml.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\drawable\\ic_baseline_help_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_solved.xml.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\drawable-anydpi\\ic_solved.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_navigation.xml.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\drawable-anydpi\\ic_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_group_friends.jpg.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\mipmap-mdpi\\group_friends.jpg"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_check.png.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\mipmap-mdpi\\check.png"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_solved.png.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\drawable-mdpi\\ic_solved.png"
+    },
+    {
+        "merged": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi_ic_liked.xml.flat",
+        "source": "C:\\Users\\sanch\\AndroidStudioProjects\\GreyStoriesGame\\app\\src\\main\\res\\drawable-anydpi\\ic_liked.xml"
+    }
+]
