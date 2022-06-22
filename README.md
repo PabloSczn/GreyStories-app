@@ -24,24 +24,24 @@ full credits and your socials will appear on the screen!
 
 ## Screenshots
 
-[<img src="GreyStoriesGame/Screenshots/GreyStories01.png" align="left"
+[<img src="/Screenshots/GreyStories01.jpg" align="left"
 width="200"
-    hspace="10" vspace="10">](/GreyStoriesGame/Screenshots/GreyStories01.png)
-[<img src="GreyStoriesGame/Screenshots/GreyStories02.png" align="center"
+    hspace="10" vspace="10">](/Screenshots/GreyStories01.jpg)
+[<img src="/Screenshots/GreyStories02.jpg" align="center"
 width="200"
-    hspace="10" vspace="10">](/GreyStoriesGame/Screenshots/GreyStories02.png)
-[<img src="/GreyStoriesGame/Screenshots/GreyStories03.png" align="center"
+    hspace="10" vspace="10">](/Screenshots/GreyStories02.jpg)
+[<img src="/Screenshots/GreyStories03.jpg" align="center"
 width="200"
-    hspace="10" vspace="10">](/GreyStoriesGame/Screenshots/GreyStories03.png)
-[<img src="/GreyStoriesGame/Screenshots/GreyStories04.png" align="center"
+    hspace="10" vspace="10">](/Screenshots/GreyStories03.jpg)
+[<img src="/Screenshots/GreyStories04.jpg" align="center"
 width="200"
-    hspace="10" vspace="10">](/GreyStoriesGame/Screenshots/GreyStories04.png)
-[<img src="/GreyStoriesGame/Screenshots/GreyStories05.png" align="center"
+    hspace="10" vspace="10">](/Screenshots/GreyStories04.jpg)
+[<img src="/Screenshots/GreyStories05.jpg" align="center"
 width="200"
-    hspace="10" vspace="10">](/GreyStoriesGame/Screenshots/GreyStories05.png)
-[<img src="/GreyStoriesGame/Screenshots/GreyStories06.png" align="center"
+    hspace="10" vspace="10">](/Screenshots/GreyStories05.jpg)
+[<img src="/Screenshots/GreyStories06.jpg" align="center"
 width="200"
-    hspace="10" vspace="10">](/GreyStoriesGame/Screenshots/GreyStories06.png)
-[<img src="/GreyStoriesGame/Screenshots/GreyStories07.png" align="center"
+    hspace="10" vspace="10">](/Screenshots/GreyStories06.jpg)
+[<img src="/Screenshots/GreyStories07.jpg" align="center"
 width="200"
-    hspace="10" vspace="10">](/GreyStoriesGame/Screenshots/GreyStories07.png)
+    hspace="10" vspace="10">](/Screenshots/GreyStories07.jpg)
